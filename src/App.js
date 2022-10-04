@@ -13,13 +13,13 @@ function App() {
     },
     {
         id: 2,
-        text: 'Mod the /r/Hampsters sub',
+        text: 'Get haircut',
         day: 'Feb 6th at 3:30pm',
         reminder: true, 
     },
     {
         id: 3,
-        text: 'Poop time',
+        text: 'Study',
         day: 'Feb 7th at 4:30pm',
         reminder: false, 
     }

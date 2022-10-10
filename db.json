@@ -11,12 +11,6 @@
       "text": "Get haircut",
       "day": "Feb 6th at 3:30pm",
       "reminder": true
-    },
-    {
-      "text": "Study Anki",
-      "day": "Today",
-      "reminder": false,
-      "id": 3
     }
   ]
 }

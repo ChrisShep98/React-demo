@@ -11,6 +11,12 @@
       "text": "Get haircut",
       "day": "Feb 6th at 3:30pm",
       "reminder": true
+    },
+    {
+      "text": "Practice React",
+      "day": "Nov 17th 11:00AM",
+      "reminder": true,
+      "id": 3
     }
   ]
 }

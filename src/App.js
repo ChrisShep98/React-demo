@@ -89,7 +89,7 @@ const addTask = async (task) => {
   return (
     <Router>
     <div className="container">
-      <Header title='Hello Prop' onAdd={() => setShowAddTask(!showAddTask)} showAdd={showAddTask} />
+      <Header title='Custom Setlist' onAdd={() => setShowAddTask(!showAddTask)} showAdd={showAddTask} />
       
 
       {/* <h2>Hello {name}</h2>
